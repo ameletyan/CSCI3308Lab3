@@ -6,4 +6,5 @@ CSCI3308Lab3
 Artur Meletyan
 Version Control Lab
 
-This might cause a merge conflict.
+This might cause a merge conflict. However, I merged the files so that there will be no conflict.
+PARTNER: Artur Meletyan (I made a new account to edit this file)
